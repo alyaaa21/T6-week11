@@ -37,7 +37,6 @@ Artinya file HTTP tidak bercampur dengan file tampilan, dan sebaliknya.
 | Edit post | PUT | `/api/posts/{id}` | Body: title, body, author, slug, status |
 | Hapus post | DELETE | `/api/posts/{id}` | Comments ikut terhapus (cascade delete) |
 
-> API ini nyata — data yang dibuat, diubah, atau dihapus akan benar-benar tersimpan di server.
 
 ---
 
