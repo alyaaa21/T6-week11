@@ -81,7 +81,7 @@ Berisi semua kode untuk berkomunikasi dengan API. Setiap method merepresentasika
 - `update_post(...)` — update post yang sudah ada
 - `delete_post(id)` — hapus post
 
-File ini tidak mengandung kode Qt sama sekali — bisa diuji langsung dari terminal tanpa membuka UI.
+File ini tidak mengandung kode Qt sama sekali, bisa diuji langsung dari terminal tanpa membuka UI.
 
 ---
 
