@@ -25,35 +25,6 @@ Artinya file HTTP tidak bercampur dengan file tampilan, dan sebaliknya.
 
 ---
 
-## Cara Instalasi & Menjalankan
-
-### 1. Pastikan Python sudah terinstall
-
-Cek versi Python di terminal:
-```bash
-python --version
-```
-Minimal Python 3.10.
-
-### 2. Install library yang dibutuhkan
-
-```bash
-pip install PySide6 requests
-```
-
-- **PySide6** — untuk membuat tampilan desktop (GUI)
-- **requests** — untuk mengirim HTTP request ke API
-
-### 3. Jalankan aplikasi
-
-```bash
-python main.py
-```
-
-> ⚠️ Pastikan keempat file berada dalam **satu folder yang sama** sebelum dijalankan.
-
----
-
 ## API yang Digunakan
 
 **Base URL:** `https://api.pahrul.my.id/api`
